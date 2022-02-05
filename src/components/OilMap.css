@@ -1,0 +1,77 @@
+.leaflet-container{
+    background-color: rgb(163,206,255)
+}
+
+.leaflet-interactive {
+    fill-opacity: 1;
+}
+
+.popup-title{
+    font-weight: bold;
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+
+} 
+
+.popup-quant{
+    font-size: 1.6em;
+    text-align: center;
+    font-family: 'PT Serif', serif;
+    font-weight: bold;
+    
+}
+
+.sidebar{
+    position:absolute;
+    z-index: 700;   
+    /* In order for z-index to work, you'll 
+    need to give the element a position:absolute or a 
+    position:relative property.   */
+    background-color: white;
+    border: 2px solid black;
+    padding: 5px;
+    margin: 25px;
+    margin-top: 70vh;
+    font-size: 18px;
+}
+
+.info-legend-conv {
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.bottom-info-legend{
+    margin-bottom: 5px;
+}
+
+.text-info-legend{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.source-info-legend{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 15px;
+    margin-bottom: 0px;
+    text-align: end;
+}
+
+@media (max-width: 470px) {
+    .sidebar{
+        font-size: 14px;
+    }
+    .title-info-legend{font-size: 18px;}
+  }
+
+  @media (max-width: 360px) {
+    .sidebar{
+        font-size: 12px;
+    }
+    .title-info-legend{font-size: 16px;}
+  }
+
+@media (max-height: 700px) {
+    .sidebar{
+        margin-top: 64vh;
+        margin-left: 10px;
+        margin: 15px;
+    }
+  }
