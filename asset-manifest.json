@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/github.io/React-Leaflet-World-Oil-Production-Deployment/static/css/main.b915f646.css",
+    "main.js": "/github.io/React-Leaflet-World-Oil-Production-Deployment/static/js/main.d4438216.js",
+    "static/js/787.64048d3f.chunk.js": "/github.io/React-Leaflet-World-Oil-Production-Deployment/static/js/787.64048d3f.chunk.js",
+    "index.html": "/github.io/React-Leaflet-World-Oil-Production-Deployment/index.html",
+    "main.b915f646.css.map": "/github.io/React-Leaflet-World-Oil-Production-Deployment/static/css/main.b915f646.css.map",
+    "main.d4438216.js.map": "/github.io/React-Leaflet-World-Oil-Production-Deployment/static/js/main.d4438216.js.map",
+    "787.64048d3f.chunk.js.map": "/github.io/React-Leaflet-World-Oil-Production-Deployment/static/js/787.64048d3f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b915f646.css",
+    "static/js/main.d4438216.js"
+  ]
+}
