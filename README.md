@@ -1,4 +1,4 @@
-[http://JosepAnSabate/github.io/React-Leaflet-World-Oil-Production/Deployment](http://JosepAnSabate/github.io/React-Leaflet-World-Oil-Production/Deployment)
+[https://josepansabate.github.io/React-Leaflet-World-Oil-Production-Deployment/](https://josepansabate.github.io/React-Leaflet-World-Oil-Production-Deployment/)
 
 
 Font: 
@@ -7,3 +7,6 @@ Font:
 <p align="center">
 <img   src="./img/mostra.PNG">
 </p>
+
+Update:
+npm run deploy 
