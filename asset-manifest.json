@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-Leaflet-World-Oil-Production-Deployment/static/css/main.b915f646.css",
-    "main.js": "/React-Leaflet-World-Oil-Production-Deployment/static/js/main.9c2d138f.js",
+    "main.css": "/React-Leaflet-World-Oil-Production-Deployment/static/css/main.d49d48ce.css",
+    "main.js": "/React-Leaflet-World-Oil-Production-Deployment/static/js/main.c3678c61.js",
     "static/js/787.64048d3f.chunk.js": "/React-Leaflet-World-Oil-Production-Deployment/static/js/787.64048d3f.chunk.js",
     "index.html": "/React-Leaflet-World-Oil-Production-Deployment/index.html",
-    "main.b915f646.css.map": "/React-Leaflet-World-Oil-Production-Deployment/static/css/main.b915f646.css.map",
-    "main.9c2d138f.js.map": "/React-Leaflet-World-Oil-Production-Deployment/static/js/main.9c2d138f.js.map",
+    "main.d49d48ce.css.map": "/React-Leaflet-World-Oil-Production-Deployment/static/css/main.d49d48ce.css.map",
+    "main.c3678c61.js.map": "/React-Leaflet-World-Oil-Production-Deployment/static/js/main.c3678c61.js.map",
     "787.64048d3f.chunk.js.map": "/React-Leaflet-World-Oil-Production-Deployment/static/js/787.64048d3f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b915f646.css",
-    "static/js/main.9c2d138f.js"
+    "static/css/main.d49d48ce.css",
+    "static/js/main.c3678c61.js"
   ]
 }
