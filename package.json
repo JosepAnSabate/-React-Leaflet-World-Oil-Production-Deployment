@@ -2,7 +2,7 @@
   "name": "oil_production_map",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://JosepAnSabate/github.io/React-Leaflet-World-Oil-Production/tree/main/web-mapa/oil_production_map",
+  "homepage":"http://JosepAnSabate/github.io/React-Leaflet-World-Oil-Production-Deployment",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.1",
     "@testing-library/react": "^12.1.2",
