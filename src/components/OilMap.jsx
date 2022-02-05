@@ -28,8 +28,11 @@ const OilMap = ({ countries }) => {
         <h4 className='title-info-legend'><strong>Annual oil production 2019</strong></h4> 
         <p className='info-legend-conv text-info-legend'>1 Mbb = 1,000,000 barrels</p>
         <p className='text-info-legend'>1 barrel =  119.24 liters</p>
-        <p className='bottom-info-legend text-info-legend'>Total World production: <strong>30629 Mbb</strong></p>
-        <p className='source-info-legend'>Source: <a href="https://ourworldindata.org/grapher/oil-production-by-country">OurWorldinData</a></p>
+        <p className='world-info-legend text-info-legend'>Total World production: <strong>30629 Mbb</strong></p>
+        <div className='bottom-container-info-legend'>
+        <p className='source-info-legend'><a href="https://github.com/JosepAnSabate/React-Leaflet-World-Oil-Production-Deployment">Code</a></p>
+            <p className='source-info-legend'>Source: <a href="https://ourworldindata.org/grapher/oil-production-by-country">OurWorldinData</a></p>
+        </div>
         </div>
         <GeoJSON style={mapStyle} data={countries} onEachFeature={oneEchCountry} />
        
